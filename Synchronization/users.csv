@@ -1,0 +1,7 @@
+id,login,person_id,password,date_off,date_on,token,queue,is_blocked,login_fail_count
+3fa85f64-5717-4562-aaac-2c963f66afa6,login,,password,01/01/0001 00:00:00,01/01/0001 00:00:00,token,queue,False,0
+3fa85f64-5717-4562-b3fc-2c963f611111,string,,string,12/14/2023 21:15:16,12/14/2023 21:15:16,string,string,True,0
+3fa85f64-5717-4562-b3fc-2c963f66abbb,LOGIN,,1234,01/01/0001 00:00:00,01/01/0001 00:00:00,t,q,False,0
+3fa85f64-5717-4562-b3fc-2c963f66afa6,login,,password,01/01/0001 00:00:00,01/01/0001 00:00:00,token,queue,False,0
+55585f55-5717-4562-b3fc-2c963f66afa6,login,,password,01/01/0001 00:00:00,01/01/0001 00:00:00,token,queue,False,0
+5ddf8881-b211-42f2-ab82-04c775192d55,admin_UMP,fc86612a-07e7-4b02-9c1c-d62dc0b5342e,AQAAAAIAAYagAAAAEOP9afVW3XDEXJ5zEtVPpgXih+MTRI6Mu/QrWvZfoWCHtowtyZ6W4ZJ2M2y3QyWghQ==,01/01/0001 00:00:00,01/01/0001 00:00:00,,,False,0
