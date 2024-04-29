@@ -1,0 +1,98 @@
+id,name,alias,date_off,date_on,owner,order
+1ae5ffc6-bbe3-48b5-9d65-52bc3c4bf548,"Раздел ""Планы и сценарии реагирования""",action-plan,,,IncidentManagement,43
+f70c894e-a980-4238-81b3-e26f8d5fb86e,Внешние коды,action-plan/external-call-types,,,KeyWords,50
+cd0aaa09-f05e-4b1c-aabb-98f16e9423ad,Типы КСиП,action-plan/incident-types,,,IncidentManagement,51
+d55f2a76-1ea7-4004-b54d-0628a10d5a82,Типы КСиП. Удаление,action-plan/incident-types/delete,,,IncidentManagement,53
+e495741c-02a0-456a-a048-342c243941fd,"Раздел ""Плановые работы""",planned-works,,,WorkPlanning,29
+bfb017eb-8582-42c3-8011-55364691a391,"Типы КСиП. Создание, редактирование",action-plan/incident-types/manage,,,IncidentManagement,52
+cac267f0-a390-4334-9d2b-eca65a6257f9,Ключевые слова,action-plan/keywords,,,KeyWords,69
+5080abac-f65f-49fe-a033-53d3a65154dc,Сценарии реагирования,action-plan/response-plans,,,IncidentManagement,44
+6426b52a-4b93-46e4-8c92-891ee05e1822,Сценарии реагирования. Удаление,action-plan/response-plans/delete,,,IncidentManagement,46
+5aa9ce13-83d6-4b9e-a20a-086b187b8ed2,Сценарии реагирования. Создание и редактирование,action-plan/response-plans/manage,,,IncidentManagement,45
+0b4d86f3-7642-48ba-b6cb-a7b1f92186a8,Типовые операции,action-plan/steps,,,IncidentManagement,47
+4b16cdea-4fc7-481f-961c-178bf0e65999,Типовые операции. Удаление,action-plan/steps/delete,,,IncidentManagement,49
+9fdf9800-7629-4d4e-9774-46a39dcfabb6,"Типовые операции. Создание, редактирование",action-plan/steps/manage,,,IncidentManagement,48
+aebad98d-a014-4d11-a878-ca11ee8c4644,"Раздел ""Администрирование""",administration,,,Общее,89
+a23656f6-365b-48fe-a2fe-c24d2c1827df,Контроль доступа,administration/access-control,,,AccessManagement,90
+fe745222-6a3a-400e-a4ed-aa4c386a38af,Административные единицы,administration/access-control/access-level,,,AccessManagement,100
+a1ecf5e4-80b0-428b-aa4a-78e1852f0277,Организации,administration/access-control/organizations,,,AccessManagement,97
+a3c94b5f-5352-4ee3-a170-dee4c95a27df,Организации. Удаление,administration/access-control/organizations/delete,,,AccessManagement,99
+06eb7ee6-c1ce-4365-bf9f-89e1ca8c5b5d,"Организации. Создание, редактирование",administration/access-control/organizations/manage,,,AccessManagement,98
+e3b3f422-d27c-4138-8ce9-d3dc23af9642,Роли,administration/access-control/roles,,,AccessManagement,94
+45b50de2-fbd4-41aa-946d-606ada8be6a9,Пользователи,administration/access-control/users,,,AccessManagement,91
+ad618aef-3a70-4ef5-a2cf-b8918d0c4135,Журнал аудита,administration/audit,,,AccessManagement,103
+81a0447d-9041-44ae-ac23-7b4d7e96d4db,Журнал аудита.Экспорт,administration/audit/export,,,AccessManagement,104
+045d6865-440f-4303-84ab-03d16527e1ef,Конфигурирование параметров,administration/developers,,,AccessManagement,105
+3039c2da-b389-4978-aa09-7fc5610ecf32,Конфигурирование параметров. Создание и редактирование,administration/developers/manage,,,AccessManagement,106
+dc66c6f4-a9d9-467c-af45-969d1344fde8,Настройка уведомлений,administration/notifications,,,AccessManagement,101
+28c1cbcd-6d19-4aa5-ad7c-7c8b9284bebb,Настройка уведомлений. Редактирование получателей,administration/notifications/manage-recipients,,,AccessManagement,102
+43645a86-7052-471f-8c87-7f35bbdbffa7,Роли. Удаление,administration/roles/delete,,,AccessManagement,96
+918b667d-9aca-4712-ac83-b5a3f7f62930,"Роли. Создание, копирование, редактирование",administration/roles/manage,,,AccessManagement,95
+3a6dd129-56ce-43d6-ad06-46d4a750b64b,Пользователи. Удаление,administration/users/delete,,,AccessManagement,93
+2a8efc3c-6987-47d8-ac5c-7fb355ae8d72,"Пользователи.Создание, редактирование",administration/users/manage,,,AccessManagement,92
+3a12a7fc-52dc-492a-a249-e12963c23db7,"Раздел ""Справочники""",directories,,,Общее,68
+1b3f951a-6829-4eb6-a6ce-ba78a117ac5d,Типы происшествий,directories/rcut/incident-types,,,РЦУТ,72
+47d285b9-8a54-46bc-b5fe-3120dbc47064,Типы происшествий. Удаление,directories/rcut/incident-types/delete,,,РЦУТ,74
+cde9b053-e3cb-41bd-aee8-93159f515330,"Типы происшествий. Создание, редактирование",directories/rcut/incident-types/manage,,,РЦУТ,73
+3de710ee-8ea6-47be-bbfa-9ea85e3e6b0c,Ключевые слова. Удаление,directories/rcut/keyword/delete,,,РЦУТ,71
+75eada2e-fa84-4034-ba66-8e7e15b0f0aa,"Ключевые слова. Создание, редактирование",directories/rcut/keyword/manage,,,РЦУТ,70
+f59b9a7b-4719-424a-87e0-d591e85f9b1f,ЖКХ. Конструктор инженерных сетей,directories/utility-network-construct,,,Utilities,109
+9deda4ae-b902-407c-b0cb-b91e7b6cc705,ЖКХ. Атрибуты объектов инфраструктуры,directories/utility-network-construct/infrastruct-object-attributes,,,Utilities,110
+7bcc5743-1589-4ed3-9abe-5f7989d51742,ЖКХ. Типы объектов инфраструктуры,directories/utility-network-construct/infrastruct-object-types,,,Utilities,111
+0c69efe8-e195-4d96-829c-c1f728285484,ЖКХ. Объекты инфраструктуры,directories/utility-network-construct/objects,,,Utilities,112
+38f076bf-a23c-4053-a64b-25bc5982bfa8,ЖКХ. Справочники,directories/zhkh,,,Общее,108
+bb744452-2c26-468a-a324-23b06831f1d6,ЖКХ. Импорт,directories/zhkh/import,,,Utilities,113
+dd9c0c8b-0e47-4735-a9db-6e3fd291e6a3,Справочники. Информационные слои,"directories/information-layers ",,,Общее,114
+b8fec850-b69c-4e16-9a2a-550d6b9f5a9e,Внешнее API ЖКХ,ExternalApiZHKH,,,ExternalSwagger,121
+0fc83976-c07c-4e08-a0f4-83e53f7026da,"Раздел ""Происшествия""",incidents,,,IncidentManagement,21
+ac7daa30-7254-4b41-8faf-4d02759a4d06,"Происшествия. Создание происшествия и редактирование вкладки ""Основная информация""",incidents/create,,,IncidentManagement,22
+a9aac69d-9bf2-4478-99ff-fae9d0516c58,Происшествия. Изменение геометрии происшествия,incidents/geometry,,,IncidentManagement,23
+2efc09a2-34f1-486b-ab6a-7f52b0d89375,"Происшествия. Вкладка ""История""",incidents/history,,,IncidentManagement,25
+c518c63c-21c7-46e2-9e85-61ddc85d309b,"Происшествия. Вкладка ""Инфраструктура""",incidents/infrastructure,,,IncidentManagement,26
+e5387288-c080-4411-b83d-cd0f0abb8e72,"Происшествия. Вкладка ""Карта""",incidents/map,,,IncidentManagement,24
+57876c73-8760-455e-9c65-5452607d6f0a,"Происшествия. Вкладка ""Сценарий реагирования""",incidents/scenario,,,IncidentManagement,27
+03ea37c1-ab73-4952-98e7-7fefbab20399,Происшествия. Исполнение и отмена исполнения шага сценария реагирования,incidents/scenario/execute,,,IncidentManagement,28
+a6a96516-6ad0-4ed2-9f0c-16e5252f5798,Оперативный дашборд,operative-dashboard,,,Дашборд,122
+74e287ea-9265-4c74-8674-924523197982,Плановые работы. Мероприятия,planned-works/activities,,,WorkPlanning,34
+e50faf51-4f10-43a3-af43-433e089ab151,Плановые работы. Мероприятия. Удаление,planned-works/activities/delete,,,WorkPlanning,36
+a6ce251c-f616-4e74-a954-c6843cfc837a,Плановые работы. Мероприятия. Создание и редактирование,planned-works/activities/manage,,,WorkPlanning,35
+db90f6f6-3cdc-409b-8864-40914e30d614,Плановые работы.Плановые работы.,planned-works/planned-works,,,WorkPlanning,30
+f512135c-dff2-4616-ace8-aaf6d97fc8d8,Плановые работы. Исполнение и отмена исполнения операции мероприятия,planned-works/planned-works/execute-operation,,,WorkPlanning,32
+20f62a62-48ee-4e2f-b54e-67a2491c1bca,Плановые работы. Создание и редактирование плановой работы,planned-works/planned-works/manage,,,WorkPlanning,31
+9233c68a-3d1e-4a5a-9c23-6e1c5efc6496,Плановые работы. Отправка уведомления ответственным,planned-works/planned-works/notification-submission,,,WorkPlanning,33
+f6a32fa8-6e67-4108-8b84-3d4fa3e9880e,Плановые работы. Операции,planned-works/steps,,,WorkPlanning,37
+9ffab1e8-bbc0-47f2-abb6-511dad6f00cf,Плановые работы. Операции. Удаление,planned-works/steps/delete,,,WorkPlanning,39
+4b820ba7-8c90-4f8f-be62-c32ec16e580e,"Плановые работы. Операции. Создание, редактирование",planned-works/steps/manage,,,WorkPlanning,38
+45316cf5-1243-415e-93e6-5a62739f5d92,Плановые работы. Типы работ,planned-works/work-types,,,WorkPlanning,40
+ca90cf8c-b7ba-446b-a5c6-9b01df5f4dd3,Плановые работы. Типы работ. Удаление,planned-works/work-types/delete,,,WorkPlanning,42
+bfec2983-03cb-4a61-8375-b7f42aabf9e8,"Плановые работы. Типы работ. Создание, редактирование",planned-works/work-types/manage,,,WorkPlanning,41
+f24fd04a-e4ac-4ab2-9cc2-acf454778a93,Дашборд,summary-dashboards,,,Дашборд,123
+c5be7884-3327-4483-aff9-107b76c1bd54,Дашборд. Основная информация,summary-dashboards/main-information,,,Мурманск ЖКХ,124
+30f53c17-603d-432c-8988-eaa5820e4b30,"Раздел ""ОК""",tok,,,Общее,1
+0351fe8b-0a4b-4197-b676-a299a910e22d,"Слой ""Карта КСиП""",tok/incidents,,,РЦУТ,2
+996bb800-8247-404f-8046-fc1444bef751,"Слой ""Карта КСиП"". Просмотр инфраструктуры",tok/incidents/infrastructure,,,РЦУТ,4
+710d3b2c-293d-488a-adce-41624101ebfe,"Слой ""Объекты""",tok/objects,,,РЦУТ,10
+862ace4a-0f82-4df3-ac6c-fd57be23a22d,Карточка объекта. Редактирование значения оперативного атрибута,tok/objects/operational-attributes,,,Мурманск ЖКХ,18
+270d7164-dd83-4cc6-9b3d-e5ae7f903f54,"Слой ""Плановые работы""",tok/planned-works,,,Мурманск ЖКХ,5
+0f74c84a-942b-4727-a181-93290a3c41a7,"Слой ""Плановые работы"". Просмотр карточки с информацией",tok/planned-works/view,,,Мурманск ЖКХ,6
+62ca13b8-26e9-439c-a963-478735e0d7fb,Схемы исполнения,playbooks,,,ExecutionFlow,145
+761a66c2-c9b1-40c6-a705-2bf3a7c4739a,"Схемы исполнения, просмотр",playbooks\card,,,ExecutionFlow,146
+1f35ec96-a929-48dd-87ea-caf306204233,"Схемы исполнения, изменение",playbooks\edit,,,ExecutionFlow,147
+c249f7ed-fcd1-4b4d-b97a-5391690b6244,Мнемосхемы,mimic-diagrams,,,Utilities,148
+dd26269c-3701-4dac-ae1f-625536ffabf8,"Мнемосхемы, просмотр",mimic-diagrams\card,,,Utilities,149
+dbd924cb-383e-429b-aa1d-35bb31afb0e9,"Мнемосхемы, изменение",mimic-diagrams\edit,,,Utilities,150
+e2a56330-f3d4-470b-8384-d0786dac5851,"Мнемосхемы, удаление",mimic-diagrams\remove,,,Utilities,151
+774d5b69-25cb-423a-a3e2-8f3189311501,Комментарии,comments,,,Общее,152
+225f2267-bbfb-4c42-a2f8-8e55cd40947d,"Комментарии, просмотр",comments\view,,,Общее,153
+4269cde9-3a07-4155-8b5f-dd32f140402f,"Комментарии, добавление",comments\add,,,Общее,154
+1e1e7512-a945-4dc3-8713-5ad55eb6c5ed,"Комментарии, удаление",comments\remove,,,Общее,155
+bc841a6d-e52c-4005-8924-763ea0a206e7,Состояния,states,,,Utilities,156
+7ec8ff10-cf96-4129-a9ca-76f45909066e,Импорт,import,,,Utilities,157
+9ac14d58-e340-4830-90c5-7a056db294fe,Правила импорта,import/rules,,,Utilities,158
+02628503-ed9f-4361-b89c-709bf501e5f5,Учебные программы,education-programs,,,StudyService,159
+83587baa-2bc2-455e-a9e5-6f34b54e7c14,Учебные программы. Добавление группы к программе,education-programs/manage-group,,,StudyService,160
+d2940019-a5d9-41e9-81e3-0fc8c7b9f348,Учебные программы. Удаление группы,education-programs/delete-group,,,StudyService,161
+892932b9-c387-4b11-be6f-fa9cb9f71438,Учебные программы. Получение журнала оценок,education-programs/get-marks,,,StudyService,162
+65d5dea9-6126-437d-8b74-d50173629d38,Учебные программы. Загрузка журнала оценок,education-programs/load-marks,,,StudyService,163
+f5602e2a-f137-4cdf-a65e-4c4bd0f33e5a,Мое обучение,my-education,,,StudyService,164
+86d73b65-ed60-4d32-8133-04e8515a04de,Оперативная картина обучения,education-op,,,StudyService,165
